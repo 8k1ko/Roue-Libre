@@ -6,8 +6,26 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/main menu.unity
+    guid: 5122a21e693926b4486d2fcc400437ab
+  - enabled: 1
     path: Assets/Scenes/map01.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/transition01-02.unity
+    guid: ee6ad414d931ebd4b9b643099363092b
+  - enabled: 1
+    path: Assets/Scenes/map02.unity
+    guid: 6e4002f9fc51dbb43b1c4897d463b0ad
+  - enabled: 1
+    path: Assets/Scenes/transition02-03.unity
+    guid: 73438352775710f45b9977a605eb1475
+  - enabled: 1
+    path: Assets/Scenes/map3.unity
+    guid: e05ce70b44940ee4ea2886d55bfc2baa
+  - enabled: 1
+    path: Assets/Scenes/end.unity
+    guid: 46c86cf4d89a5394c8ba54e45b9de356
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
